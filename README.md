@@ -1,2 +1,2 @@
 # lagos-house
-Project to cost of buying houses in Lagos
+Project to predict the cost of buying houses in Lagos
